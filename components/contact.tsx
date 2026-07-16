@@ -19,7 +19,7 @@ const contactInfo = [
     icon: Building2,
     title: "Head Office",
     details: [
-      "Director General, Training, Research and Coordination",
+      "Telangana Remote Sensing Applications Centre (TGRAC)",
       "Gananka Bhavan Premises",
       "Veer Nagar, Chintal Basti",
       "Khairatabad",
@@ -50,8 +50,8 @@ const contactInfo = [
 
 const quickLinks = [
   {
-    name: "Dharani Portal",
-    url: "https://dharani.telangana.gov.in",
+    name: "Bhubharati",
+    url: "https://bhubharati.telangana.gov.in/",
   },
   {
     name: "HMDA e-Services",
