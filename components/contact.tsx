@@ -51,7 +51,7 @@ const contactInfo = [
 const quickLinks = [
   {
     name: "Dharani Portal",
-    url: "https://dharani.telangana.gov.in",
+    url: "https://bhubharati.telangana.gov.in/",
   },
   {
     name: "HMDA e-Services",
