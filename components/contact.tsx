@@ -19,7 +19,7 @@ const contactInfo = [
     icon: Building2,
     title: "Head Office",
     details: [
-      "Director General, Training, Research and Coordination",
+      "TGRAC",
       "Gananka Bhavan Premises",
       "Veer Nagar, Chintal Basti",
       "Khairatabad",
